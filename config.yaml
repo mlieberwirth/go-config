@@ -1,0 +1,7 @@
+server:
+    host: "localhost"
+    port: 8000
+  
+database:
+    user: "admin"
+    pass: "super-pedro-1980"
